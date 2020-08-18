@@ -1,3 +1,6 @@
 .textBox {
     width: 260px;
 }
+body {
+    font-family: monospace;
+}
