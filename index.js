@@ -33,5 +33,5 @@
         var length = numberInput.value;
         var word = makeWord(length);
         displayWord(word);
-    }
+    }//this will make the button work
 })(this);
